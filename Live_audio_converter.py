@@ -29,7 +29,7 @@ def pdf_to_audio(pdf_path, output_audio_path=None):
         print(f"Error: {e}")
 
 # Provide the path to your PDF file
-pdf_path = r"C:\Users\Invcuser_96\Documents\Projects\Data_Science\PDF_Reader\sample.pdf" 
+pdf_path = r"sample.pdf" 
 # Update the file name as needed if None is given audio will be played live
 output_audio_path = None
 
