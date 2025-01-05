@@ -29,8 +29,8 @@ def pdf_to_audio(pdf_path, output_audio_path=None):
         print(f"Error: {e}")
 
 # Provide the path to your PDF file
-pdf_path = r"C:\Users\Invcuser_96\Documents\Projects\Data_Science\PDF_Reader\sample.pdf"  # Update the file name as needed
-output_audio_path = r"C:\Users\Invcuser_96\Documents\Projects\Data_Science\PDF_Reader\output_audio.mp3"  # Replace or set to None for real-time playback
+pdf_path = r"sample.pdf"  # Update the file name as needed
+output_audio_path = r"output_audio.mp3"  # Replace or set to None for real-time playback
 
 
 # Convert PDF to audio
